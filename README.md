@@ -1,4 +1,4 @@
-reading-list
-============
+What I'm Reading
+================
 
-What I'm reading
+Inspired by [Farnam Street](http://www.farnamstreetblog.com/reading/).
