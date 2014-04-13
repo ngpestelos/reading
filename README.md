@@ -18,6 +18,8 @@ Inspired by [Farnam Street](http://www.farnamstreetblog.com/reading/).
 
 ### February
 
+* Database Systems: The Complete Book
+
 ### January
 
 * Programming Elixir
