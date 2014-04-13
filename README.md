@@ -14,3 +14,9 @@ Inspired by [Farnam Street](http://www.farnamstreetblog.com/reading/).
 
 * Ansible Configuration Management
 * Atlas Shrugged
+
+### February
+
+### January
+
+* Programming Elixir
