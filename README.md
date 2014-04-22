@@ -16,6 +16,7 @@ Inspired by [Farnam Street](http://www.farnamstreetblog.com/reading/).
 * Ansible Configuration Management
 * Atlas Shrugged
 * Building Awesome Command-line Applications in Ruby 2
+* Agile Web Development with Rails, 4th Edition
 
 ### February
 
