@@ -10,6 +10,7 @@ Inspired by [Farnam Street](http://www.farnamstreetblog.com/reading/).
 * [TDD Costs and Benefits](https://practicingruby.com/articles/tdd-costs-and-benefits?u=87eb306b2b)
 * Working Effectively with Legacy Code
 * The Cucumber Book
+* The RSpec Book
 
 ### March
 
