@@ -3,6 +3,10 @@ What I'm Reading
 
 Inspired by [Farnam Street](http://www.farnamstreetblog.com/reading/).
 
+### May
+
+* The Agile Samurai
+
 ### April
 
 * Growing Object-oriented Software, Driven by Tests
