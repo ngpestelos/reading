@@ -6,6 +6,7 @@ Inspired by [Farnam Street](http://www.farnamstreetblog.com/reading/).
 ### May
 
 * The Agile Samurai
+* The Rails 4 Way
 
 ### April
 
