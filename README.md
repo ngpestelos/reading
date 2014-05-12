@@ -8,6 +8,7 @@ Inspired by [Farnam Street](http://www.farnamstreetblog.com/reading/).
 * The Agile Samurai
 * The Rails 4 Way
 * Getting Started with OAuth 2.0
+* Service-Oriented Design with Ruby on Rails
 
 ### April
 
